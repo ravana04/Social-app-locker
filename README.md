@@ -1,0 +1,3 @@
+# Social-app-locker
+This app is different from normal app locker . In this user will select particular app from all apps icon to be locked , and set time (for how much time user can use the locked apps) after pressing SET button , if user is using locked app more than the time he/she initialize , user's phone will be locked , thus he cannot use locked app for that particular day . NOTE: once initialize the SET button is disabled until next day
+Group Members :- Atharva Sawarkar ( 3rd Year , Shri Ramdeobaba College of Engineering and Management , Nagpur ) Smit Kukadapwar ( 3rd Year , Shri Ramdeobaba College of Engineering and Management , Nagpur ) 
