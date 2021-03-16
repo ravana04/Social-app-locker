@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:id="@+id/freq"
+
+        android:icon="@drawable/freqa"
+        android:title="Frequent App"
+        android:iconTint="#ffffff"
+        />
+
+    <item android:id="@+id/all_app"
+
+    android:icon="@drawable/allappw"
+    android:title="All App"
+       android:iconTint="#ffffff"
+        />
+
+    <item android:id="@+id/locked"
+        android:icon="@drawable/lockw"
+        android:title="Locked App"/>
+
+    <item android:id="@+id/time_use"
+        android:icon="@drawable/timew"
+        android:title="Time Usage"/>
+
+
+    <item android:id="@+id/about"
+        android:icon="@drawable/aboutw"
+        android:title="About Us"/>
+
+</menu>
